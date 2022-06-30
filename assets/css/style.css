@@ -17,3 +17,11 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.h2Home {
+    font-size: 22px !important;
+}
+
+.pHome {
+    font-size: 13px !important;
+}
